@@ -6,7 +6,7 @@ I am a fullstack software engineer from Saratoga Springs, Utah
 <br>
 ## Connect with me
 [JoshuaRReed.com](https://www.joshuarreed.com)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joshua-reed/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joshua-reed)
 
 
 <br>
