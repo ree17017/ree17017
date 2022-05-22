@@ -4,8 +4,6 @@ I am a fullstack software engineer from Saratoga Springs, Utah
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 
-# Connect with me
-[<img align="left" alt="joshuarreed.com" src="https://img.shields.io/badge/joshuarreed.com-%230077B5.svg?&style=for-the-badge&logo=joshuarreed.com&logoColor=white"/>](https://www.joshuarreed.com)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joshua-reed) <br>
 
 # Expertise
