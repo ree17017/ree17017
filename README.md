@@ -1,7 +1,7 @@
 # Hello World 👋
 I am a fullstack software engineer from Santaquin, Utah
 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using React with TypeScript and Nodejs
 - 🌱 Learning design patterns in depth
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/joshua-reed) <br>
