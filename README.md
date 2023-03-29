@@ -14,5 +14,3 @@ I am a fullstack software engineer from Santaquin, Utah
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript%20-%23232F3E?logo=JavaScript&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/Nest.js%20-%23232F3E?logo=NestJS&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/Jest%20-%23232F3E?logo=Jest&logoColor=white&style=for-the-badge" />
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2361DAFB?logo=python&logoColor=yellow&style=for-the-badge" />
-
